@@ -1,7 +1,5 @@
 # tech-interview-question
 기술 면접에 대비한 컴퓨터 공학 전반의 개념들을 질문 형태로 정리합니다.
-# tech-interview-preparation
-기술면접 예상 질문에 대비한 개념 정리입니다.
 
 ## Contents
 1. [컴퓨터구조론](#컴퓨터구조론)

@@ -591,5 +591,80 @@
 ## 운영체제
 
 ## 자료구조
+1. 링크드리스트
+- 단순 연결 리스트
+- 원형 연결 리스트
+- 이중 연결 리스트
+
+2. 스택
+- Array based stack
+- Linkedlist based stack
+- Queue based stack
+
+3. 큐
+- 선형 큐
+- 원형 큐
+- 덱
+
+4. 트리
+- 이진 트리
+- 반복적 순회와 레벨 순회
+- 완전 이진 트리
+- 스레드 이진 트리
+- 이진 검색 트리
+- Red-Black 트리
+- B Tree와 B+ Tree
+
+5. 우선순위 큐와 힙
+
+6. 해시
+- 해시 함수
+- 해시 테이블
+- 체이닝
 
 ## 알고리즘
+1. 정렬
+- 버블 정렬(Bubble Sort)
+- 선택 정렬(Selection Sort)
+- 삽입 정렬(Insertion Sort)
+- 셸 정렬(Shell Sort)
+- 퀵 정렬(Quick Sort)
+- 병합 정렬(Merge Sort)
+- 힙 정렬(Heap Sort)
+- 기수 정렬(Radix Sort)
+- 계수 정렬(Count Sort)
+
+2. 문자열 탐색
+- Rabin-Karp
+- Boyer-Moore
+- KMP
+
+3. 최소 신장 트리
+- Kruskal
+- Prim
+
+4. 최단 거리
+- Dijkstra
+- Floyd
+- Bellman-Ford
+
+5. 위상 정렬
+
+6. Union-Find
+
+7. 최장 증가 수열(LIS)
+
+8. 최소 공통 조상(LCA)
+
+9. 탐색
+- AVL 트리
+- 2-3 트리
+- 2-3-4 트리
+
+10. NP-Complete
+
+11. A* Algorithm
+
+12. Greedy
+
+13. Dynamic Programming
